@@ -1,6 +1,6 @@
 # Random-Password-Generator-
 
-Random Password Generator. 
+Random Password Generator. An Awsome Password Generator
 
 
 What does the code do? 
